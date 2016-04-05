@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Fundacion patitas callejeras</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css" rel = "stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/estile.css">
+
+	
+</head>
+<body>
+	<header>
+		<div class="row margin">
+  		<div class="col-md-1 "></div>
+
+  		<div class="col-md-10">
+  			  		
+  		<nav class="navbar navbar-default"> 
+  <div class="container-fluid"> 
+    <div class="navbar-header"> 
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-5" aria-expanded="false"> 
+        <span class="sr-only">Toggle navigation</span> 
+        <span class="icon-bar"></span> 
+        <span class="icon-bar"></span> 
+        <span class="icon-bar"></span> 
+      </button> 
+      <a><img class="dimen"src="img/nombre.png"></a> 
+    </div> 
+    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-5" aria-expanded="false" style="height: 1px;"> 
+       <ul class="nav navbar-nav">
+              <li ><a class="links" href="##" >Inicio <span class="sr-only"></span></a></li>
+              <li><a class="links" href="##" >Eventos</a></li>
+              <li><a class="links" href="##" >Donaciones</a></li>
+              <li><a class="links" href="##" >Adoptar</a></li>
+           </ul>
+    </div> </div> </nav>
+    	</div>
+  		<div class="mn colx-md-1"></div>
+		</div>
+	</header>
+
+	<div class="liner"></div>
+	<p>
+	<div class="back">
+	<div class="row margin">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			este
+		
+	
+	
+		</div>
+	<div class="col-md-1"> </div>
+	</div>
+	</div>
+	<section>
+		<div class="row margin"><div class="col-md-1"></div><div class="col-md-10"> <hr></div>
+		<div class="col-md-1"></div>
+
+	<div class="row margin">
+		
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			<div class="col-lg-4">
+			<div class="sectionstile"> 
+          <img class="img-circle" src="img/tapitas.png" alt="Generic placeholder image" width="140" height="140">
+          <h2>Recolección de tapitas</h2>
+          <p>cDonec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div></div>
+
+        <div class="col-lg-4">
+        	<div class="sectionstile">
+          <img class="img-circle" src="img/eb.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div></div>
+
+        <div class="col-lg-4">
+        	<div class="sectionstile">    	
+          <img class="img-circle" src="img/tp.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div></div></div> 
+       <div class="col-md-1"></div>    
+	</div>
+
+		<div class="row margin"><div class="col-md-1"></div><div class="col-md-10"> <hr></div>
+		<div class="col-md-1"></div>
+		<div class="row margin">
+        <div class="col-md-1"></div>
+		<div class="col-md-5">
+			<h2>  NORMAS Y LEYES DE PROTECCION ANIMAL</h2>
+			<p>El hecho de reconocer que los animales ya no sean considerados cosas dentro del código civil  en su artículo 655 donde los declaran como bienes muebles y  que sean reconocidos como seres sintientes abre las puertas para que los derechos de los animales sean tenidos en cuenta  en nuestro país, que los casos de maltrato animal no se quede en la impunidad y sean ejecutadas multas económicas que van desde 5 a 50 salarios mínimos mensuales legales vigentes y penas que van de 12 a 36 meses de cárcel, con agravantes punitivos</p>
+			
+			<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magnaDonec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna</p> <br>
+			</div>
+			<div class="col-md-5">
+		<img  src= "img/norma.jpg"  alt= "..."  class= "img-thumbnail" > </div>
+
+		<div class="col-md-1"></div>
+		</div>
+
+		<div class="row margin"><div class="col-md-1"></div><div class="col-md-10"> <hr></div>
+		<div class="col-md-1"></div></div>
+		<div class="row margin">
+        <div class="col-md-1"></div>
+        <div class="col-md-5">
+		<img  src= "img/app.png"  alt= "..."  class= "img-thumbnail" > </div>
+        <div class="col-md-5">
+			<h2>  nuestra apliacion smartphone 	</h2>
+			<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+			<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+			<br>
+			<button type="button" class=" btn btn-default btn-lg btn-block"> <img class="simg" src="img/play.png" alt=""> Google Play</button>
+			<br>
+
+		</div>
+			
+		<div class="col-md-1"></div>
+		</div>
+		</section>
+
+		
+		<footer class="row margin">
+			<hr>
+			<div class="col-md-1"></div>
+			<div class=" positin col-md-7">
+			<p><font><font>© 2015 Company, Inc. · </font></font><a href="#"><font><font>Privacidad</font></font></a><font><font> · </font></font><a href="#"><font><font>Condiciones</font></font></a></p>	
+			</div>
+			<div class="col-md-2">
+				<div class="col-md-2"><p>Síguenos</p></div>
+			<a href="https://www.facebook.com/fundacion.callejeras?ref=ts&fref=ts" "facebook"><img  class="iconreeds" src="img/iconfb.png" alt=""></a>
+			<a href="mailto:joe@example.com?subject=feedback" "email me"><img  class="iconreeds" src="img/icontw.png" alt=""></a>	
+			</div>
+			<div class="col-md-1"><p class="pull-right"><a href="#"><font><font>Volver arriba</font></font></a></p></div>
+			<div class="col-md-1"></div>
+			
+		</footer>
+		
+		
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    	<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+
+	</body>
+</html>
